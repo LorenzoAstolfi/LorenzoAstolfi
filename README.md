@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lorenzo Astolfi
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning C++, Java, HTML
