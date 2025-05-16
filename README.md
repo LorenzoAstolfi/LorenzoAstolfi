@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Lorenzo Astolfi
+- 🎓 Student
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning C++, Java, HTML
+- 🌱 I’m currently learning C++, Java and HTML
