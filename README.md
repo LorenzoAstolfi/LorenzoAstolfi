@@ -2,3 +2,5 @@
 - 🎓 Student
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning C++, Java and HTML
+- 🎮 Minecraft & Discord Developer
+- ✨ Owner of StellarDevelopment
