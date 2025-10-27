@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lorenzo Astolfi
 - 🎓 Student
 - 👀 I’m interested about Coding & Developing
-- 🌱 I’m currently learning C++, Java, JS and HTML
-- 🎮 Minecraft & Discord Developer
-- ✨ Owner of StellarDevelopment
+- 🌱 I’m currently learning C++, Java, JS, HTML, CSS, MySQL
+- 🎮 Actual Discord Developer
